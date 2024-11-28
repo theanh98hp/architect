@@ -6,11 +6,11 @@
         }
     },
     "require": {
-        "laravel/framework": "~6.0|~7.0|~8.0|~9.0|~10.0|~11.*",
+        "laravel/framework": "~6.0|~7.0|~8.0|~9.0|~10.0|~11.33",
         "php": ">=8.2",
-        "illuminate/support": "^10.0 || ^11.*",
-        "illuminate/database": "^10.0 || ^11.*",
-        "illuminate/http": "^10.0 || ^11.*"
+        "illuminate/support": "^10.0 || v11.33.2",
+        "illuminate/database": "^10.0 || v11.33.2",
+        "illuminate/http": "^10.0 || v11.33.2"
     },
     "require-dev": {
         "mockery/mockery": "1.3.*",
